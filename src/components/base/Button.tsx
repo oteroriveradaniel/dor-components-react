@@ -1,9 +1,13 @@
 import './base.css';
 
-function Button() {
+type ButtonParams = {
+  text: string;
+}
+
+function Button({...params}: ButtonParams) {
   return (
     <button className="dor-button">
-      Something
+      { params.text }
     </button>
   );
 }
