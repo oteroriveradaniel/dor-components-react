@@ -1,5 +1,5 @@
 .dor-button {
-  --color: var(--fill-strong);
+  --color: var(--fill);
   --hover-color: black;
   --active-color: var(--color);
   
