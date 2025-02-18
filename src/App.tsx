@@ -5,7 +5,8 @@ import Button from './components/base/Button';
 function App() {
   return (
     <>
-      <Button></Button>
+      <Button 
+        text='Something' />
     </>
   );
 }
