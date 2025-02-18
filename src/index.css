@@ -4,7 +4,7 @@
   --stroke-strong: #555;
   --stroke-weak: #ddd;
   
-  --fill: #aa2450;
+  --fill: #21bb80;
 
   --border-sm: 6px;
 
@@ -20,4 +20,6 @@
   min-height: 0;
 
   font-size: 14px;
+
+  font-family: "Inter", serif;
 }
